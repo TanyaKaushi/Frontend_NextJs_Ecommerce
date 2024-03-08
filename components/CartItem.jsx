@@ -25,7 +25,7 @@ const CartItem = () => {
 
         {/* PRODUCT SUBTITLE */}
         <div className="text-md font-medium text-black/[0.5] hidden md:block">
-          Men's Golf Shoes
+          Men&apos;s Golf Shoes
         </div>
 
         <div className="flex items-center justify-between mt-4">
